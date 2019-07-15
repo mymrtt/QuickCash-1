@@ -1,0 +1,632 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fu",
+				"function"
+			],
+			[
+				"dipl",
+				"display"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"s",
+				"submit"
+			],
+			[
+				"ca",
+				"Cancel"
+			],
+			[
+				"se",
+				"Send"
+			],
+			[
+				"co",
+				"container"
+			],
+			[
+				"c",
+				"console"
+			],
+			[
+				"Ca",
+				"CancelamentoDeForm"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"bu",
+				"button-send"
+			],
+			[
+				"l",
+				"label\tTag"
+			],
+			[
+				"sma",
+				"smaller\tfont-size"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"paddi",
+				"padding-top\tproperty"
+			],
+			[
+				"pa",
+				"padding-left\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"back",
+				"background-repeat\tproperty"
+			],
+			[
+				"backgr",
+				"background-repeat\tproperty"
+			],
+			[
+				"as",
+				"assets"
+			],
+			[
+				"ma",
+				"margin-right\tproperty"
+			],
+			[
+				"e",
+				"space-evenly"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"backgro",
+				"background-size\tproperty"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"cOL",
+				"color\tproperty"
+			],
+			[
+				"column",
+				"column-reverse\tflex-direction"
+			],
+			[
+				"colum",
+				"column-reverse\tflex-direction"
+			],
+			[
+				"fle",
+				"flex-direction"
+			],
+			[
+				"al",
+				"align-items\tproperty"
+			],
+			[
+				"p",
+				"png"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"foo",
+				"footer-image"
+			],
+			[
+				"b",
+				"background-position\tproperty"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"fl",
+				"flex-direction\tproperty"
+			],
+			[
+				"f",
+				"flex-direction\tproperty"
+			],
+			[
+				"m",
+				"main\tTag"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"backgrou",
+				"background-color\tproperty"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"hae",
+				"header\tTag"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"tex",
+				"text-decoration\tproperty"
+			],
+			[
+				"aimation",
+				"animation\tproperty"
+			],
+			[
+				"margi",
+				"margin-left\tproperty"
+			],
+			[
+				"margin-t",
+				"margin-left\tproperty"
+			],
+			[
+				"ima",
+				"background-image\tproperty"
+			],
+			[
+				"u",
+				"url()\tbackground-image"
+			],
+			[
+				"dis",
+				"display\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"fi",
+				"figure\tTag"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"border-c",
+				"border-color\tproperty"
+			],
+			[
+				"border-",
+				"border-width\tproperty"
+			],
+			[
+				"t",
+				"top\tproperty"
+			],
+			[
+				"whi",
+				"width\tproperty"
+			],
+			[
+				"wh",
+				"width\tproperty"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"bor",
+				"border-style\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"inl",
+				"inline-flex\tdisplay"
+			],
+			[
+				"trans",
+				"transition\tproperty"
+			],
+			[
+				"o",
+				"option\tTag"
+			],
+			[
+				"i",
+				"iframe\tTag"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"check",
+				"checkbox"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"menu",
+				"menu_aberto"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"backgoru",
+				"background-color\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"head",
+				"header\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/vai-na-web-02/Documentos/Oca-dos-curumins/index.html",
+		"/home/vai-na-web-02/Documentos/Oca-dos-curumins/assets/css/style.css",
+		"/home/vai-na-web-02/Documentos/For-Love/assets/css/style.css",
+		"/home/vai-na-web-02/Documentos/For-Love/index.html",
+		"/home/vai-na-web-02/Documentos/douglas desafios/github/perfil.html",
+		"/home/vai-na-web-02/Documentos/douglas desafios/doces.css",
+		"/home/vai-na-web-02/Documentos/douglas desafios/estilo.css",
+		"/home/vai-na-web-02/Documentos/Oca-dos-curumins/assets/css/fonts.css",
+		"/home/vai-na-web-02/Área de Trabalho/teste/teatro.svg",
+		"/home/vai-na-web-02/Documentos/Oca-dos-curumins/assets/img/teatro.svg",
+		"/home/vai-na-web-02/Documentos/estefania/estiilo.css",
+		"/home/vai-na-web-02/Documentos/estefania/mobile.css",
+		"/home/vai-na-web-02/Documentos/estefania/estilo.css",
+		"/home/vai-na-web-02/Documentos/For-Love (1)/index.html",
+		"/home/vai-na-web-02/Documentos/For-Love (1)/assets/css/style.css",
+		"/home/vai-na-web-02/Documentos/Futuro-Movimento/style.css",
+		"/home/vai-na-web-02/Documentos/Futuro-Movimento/index.html",
+		"/home/vai-na-web-02/Documentos/Oca-dos-curumins/style.css",
+		"/home/vai-na-web-02/Documentos/Oca-dos-curumins/assets/fonts.css",
+		"/home/vai-na-web-02/Documentos/Oca-dos-curumins/assets/style.css",
+		"/home/vai-na-web-02/Documentos/juliana/Projeto-Final/Funperj/style.css",
+		"/home/vai-na-web-02/Documentos/juliana/Projeto-Final/Funperj/index.html",
+		"/home/vai-na-web-02/Documentos/juliana/Projeto-Final/Funperj/Funperj/index.html",
+		"/home/vai-na-web-02/Crianca-Felizes/cf.css",
+		"/home/vai-na-web-02/Crianca-Felizes/cf.html",
+		"/home/vai-na-web-02/Documentos/Futuro-Movimento/fonts.css",
+		"/home/vai-na-web-02/Downloads/quickcash/quickcash-master/style.css",
+		"/home/vai-na-web-02/Downloads/quickcash/quickcash-master/index (1).html",
+		"/home/vai-na-web-02/Downloads/quickcash/quickcash-master/about.html",
+		"/home/vai-na-web-02/Documentos/douglas desafios/intex.html",
+		"/home/vai-na-web-02/Documentos/estilo.css",
+		"/home/vai-na-web-02/Documentos/jezielsilva/Oca-dos-curumins/Oca-dos-curumins/projeto final.html",
+		"/home/vai-na-web-02/Documentos/jezielsilva/Oca-dos-curumins/Oca-dos-curumins/projeto final.css",
+		"/home/vai-na-web-02/Documentos/jezielsilva/Oca-dos-curumins/Oca-dos-curumins/fonts.css",
+		"/home/vai-na-web-02/Documentos/Flamengo/README.md",
+		"/home/vai-na-web-02/Documentos/estefania/mobile.html",
+		"/home/vai-na-web-02/Documentos/For-Love/assets/img/test.svg",
+		"/home/vai-na-web-02/Documentos/For-Love/assets/img/Grupo 44.svg",
+		"/home/vai-na-web-02/PROA/assets/styles.css",
+		"/home/vai-na-web-02/PROA/index.html",
+		"/home/vai-na-web-02/Documentos/juliana/juliana.html",
+		"/home/vai-na-web-02/Documentos/For-Love/ASSETS/CSS/style.css",
+		"/home/vai-na-web-02/.cache/.fr-jyWL3X/desafios-vnw-master/untitled.css",
+		"/home/vai-na-web-02/Documentos/Rodrigo/pasta/index.html",
+		"/home/vai-na-web-02/Documentos/Rodrigo/pasta/estilo.css",
+		"/home/vai-na-web-02/Documentos/Paloma/TrabalhosVaiNaWeb/dribbblecss.css",
+		"/home/vai-na-web-02/Documentos/Paloma/TrabalhosVaiNaWeb/Dribbble.html",
+		"/home/vai-na-web-02/Documentos/gey/mobilefirst/index.html",
+		"/home/vai-na-web-02/Documentos/gey/mobilefirst/style.css",
+		"/home/vai-na-web-02/Documentos/estefania/untitled.html",
+		"/home/vai-na-web-02/Documentos/Kamile/desafio2.5.19.html",
+		"/home/vai-na-web-02/Documentos/Kamile/desafio2.5.19.css",
+		"/home/vai-na-web-02/Documentos/estefania/index.html",
+		"/home/vai-na-web-02/Área de Trabalho/amandaa/juliana.html",
+		"/home/vai-na-web-02/Área de Trabalho/amandaa/amanda.css",
+		"/home/vai-na-web-02/Área de Trabalho/amandaa/amanda.html",
+		"/home/vai-na-web-02/Documentos/Mateus Israel/desenho/1/index.html",
+		"/home/vai-na-web-02/Documentos/Mateus Israel/desenho/1/style.css",
+		"/home/vai-na-web-02/Documentos/Mateus Israel/desenho/1/casa.html",
+		"/home/vai-na-web-02/Documentos/Mateus Israel/servidor/package-lock.json",
+		"/home/vai-na-web-02/Documentos/Mateus Israel/servidor/index.js",
+		"/home/vai-na-web-02/Documentos/Mateus Israel/desenho/monstro/index.html",
+		"/home/vai-na-web-02/Documentos/Mateus Israel/desenho/monstro/style.css",
+		"/home/vai-na-web-02/douglas-projeto final/projeto.html",
+		"/home/vai-na-web-02/Documentos/Borel/nada.css",
+		"/home/vai-na-web-02/Documentos/joao.GitHub.io/desafio1.html",
+		"/home/vai-na-web-02/Documentos/joao.GitHub.io/desafio1.css",
+		"/home/vai-na-web-02/Documentos/Borel/nada.html",
+		"/home/vai-na-web-02/Documentos/joao.GitHub.io/index.css",
+		"/home/vai-na-web-02/Documentos/gey/divindex.html",
+		"/home/vai-na-web-02/Documentos/renan/testes/juliana.html",
+		"/home/vai-na-web-02/Rodrigo.github.io/style.css",
+		"/home/vai-na-web-02/Rodrigo.github.io/index.html",
+		"/home/vai-na-web-02/Documentos/renan/testes/index.html",
+		"/home/vai-na-web-02/Documentos/renan/testes/style.css",
+		"/home/vai-na-web-02/Documentos/renan/testes/stile.css",
+		"/home/vai-na-web-02/Documentos/Kamile/aula-primeiros-comandos-git/desafio1-4-19.html",
+		"/home/vai-na-web-02/Documentos/Flamengo/Renan.txt",
+		"/home/vai-na-web-02/Área de Trabalho/amandaa/index.html",
+		"/home/vai-na-web-02/Documentos/Caroline/amanda",
+		"/home/vai-na-web-02/Documentos/Caroline/Index.html",
+		"/home/vai-na-web-02/Documentos/melissa/untitled.html",
+		"/home/vai-na-web-02/Documentos/Paloma/style.css",
+		"/home/vai-na-web-02/Documentos/Paloma/meuperfl.html",
+		"/home/vai-na-web-02/Documentos/Paloma/index.html",
+		"/home/vai-na-web-02/Documentos/Borel/jeziel silva/jezielexercicio.html",
+		"/home/vai-na-web-02/Documentos/Borel/jeziel silva/exerciciojeziel.html",
+		"/home/vai-na-web-02/Documentos/Borel/jeziel silva/jeziel.html",
+		"/home/vai-na-web-02/Documentos/Borel/jeziel silva/formulario.html",
+		"/home/vai-na-web-02/Documentos/joao.GitHub.io/index.html",
+		"/home/vai-na-web-02/Documentos/roberta/0204.html",
+		"/home/vai-na-web-02/Documentos/melissa/Style.css",
+		"/home/vai-na-web-02/Documentos/gey/divstyle.css",
+		"/home/vai-na-web-02/Documentos/gey/Style.css",
+		"/home/vai-na-web-02/Documentos/gey/desafio1.4.html",
+		"/home/vai-na-web-02/Documentos/melissa/untitled.css",
+		"/home/vai-na-web-02/Documentos/Rodrigo/rgethhthhtrrh/estilo.css",
+		"/home/vai-na-web-02/Documentos/Rodrigo/rgethhthhtrrh/index.html",
+		"/home/vai-na-web-02/Documentos/Borel/jezielexercicio.html",
+		"/home/vai-na-web-02/Documentos/Borel/config.css",
+		"/home/vai-na-web-02/Documentos/RB/rb.css",
+		"/home/vai-na-web-02/Documentos/RB/rb.html",
+		"/home/vai-na-web-02/Documentos/Borel/www.html",
+		"/home/vai-na-web-02/Documentos/Borel/instagran.html",
+		"/home/vai-na-web-02/Documentos/Borel/style.css",
+		"/home/vai-na-web-02/Documentos/Borel/exerciciojeziel.html",
+		"/home/vai-na-web-02/Documentos/Borel/index2.html",
+		"/home/vai-na-web-02/Documentos/Borel/estilo2.css",
+		"/media/vai-na-web-02/SEMIRAMES/GS OBRAS/vainaweb/style1.css",
+		"/media/vai-na-web-02/SEMIRAMES/GS OBRAS/vainaweb/index1udemy.html",
+		"/home/vai-na-web-02/Documentos/Borel/estilo.css",
+		"/home/vai-na-web-02/Documentos/douglas desafios/indexg.html",
+		"/home/vai-na-web-02/Documentos/semirames/estilo6.css",
+		"/home/vai-na-web-02/Documentos/gey/indexform.html",
+		"/home/vai-na-web-02/Documentos/douglas desafios/idexdoces.html",
+		"/home/vai-na-web-02/Documentos/semirames/index6viajandopara.html",
+		"/home/vai-na-web-02/Documentos/semirames/estilo10.css",
+		"/home/vai-na-web-02/Documentos/semirames/index11.html",
+		"/home/vai-na-web-02/Documentos/semirames/estilo11.css",
+		"/home/vai-na-web-02/Documentos/semirames/index9meuperfil.html",
+		"/home/vai-na-web-02/Documentos/semirames/estilo9.css",
+		"/home/vai-na-web-02/Documentos/semirames/index10relembrando.html",
+		"/home/vai-na-web-02/Documentos/matheus e kamile/estilo.css",
+		"/home/vai-na-web-02/Documentos/matheus e kamile/index2.html",
+		"/home/vai-na-web-02/Documentos/renan/index.html",
+		"/home/vai-na-web-02/Documentos/melissa/oioi.html",
+		"/home/vai-na-web-02/Documentos/melissa/melissa.html",
+		"/home/vai-na-web-02/Documentos/Borel/indexxxxxxxx.html"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 105.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 135.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "main.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"oioi.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 183.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

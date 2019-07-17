@@ -170,6 +170,7 @@ body {
     .title-about {
           width: 87%;
     font-size: 1.5rem;
+    line-height: 3;
     position: relative;
     left: 36px;
     }
@@ -183,7 +184,7 @@ body {
 }
   @media(max-width: 768px) {
     .container-figures {
-      width: 80vw;
+      width: 90vw;
       flex-direction: column-reverse;
       /*align-items: flex-start;*/
     }
@@ -214,7 +215,7 @@ body {
 }
 @media(max-width: 768px) {
   .box-text {
-    width: 90%;
+    width: 93%;
   }
 }
 
@@ -244,7 +245,7 @@ body {
 @media(max-width:768px) {
   .p-about {
     font-size: 1rem;
-    width: 78%;
+    width: 100%;
     margin-bottom: 1.25rem;
   }
 }
@@ -633,7 +634,7 @@ body {
 }
 @media(max-width: 768px){
   .p-about-news{
-    width: 90vw;
+    width: 81vw;
   }
 }
 
@@ -771,7 +772,6 @@ body {
 }
 @media(max-width: 768px){
   .box-copyright{
-       width: 106%;
     position: relative;
     top: 232px;
 
@@ -785,8 +785,7 @@ body {
 }
 @media(max-width: 768px){
   .copyright{
-       font-size: .7rem;
-    width: 90vw;
+    font-size: .7rem;
     display: flex;
     justify-content: center
 
@@ -797,7 +796,6 @@ body {
 }
 @media(max-width: 768px){
   .p-copyright{
-       width: 90%;
     font-size: .7rem;
     display: flex;
     justify-content: center;
@@ -808,7 +806,8 @@ body {
 .menu-secundario{
 	  display: flex;
     flex-direction: column;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat', sans
+  width: 6vw;-serif;
     color: #fff;
     padding-right: 3rem;
     font-size: 0.95rem;
@@ -816,7 +815,6 @@ body {
     @media(max-width: 768px){
       .menu-secundario{
     text-align: center;
-    position: relative;
     top: 15px;
     left: 20px;
       }

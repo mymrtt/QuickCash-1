@@ -9,9 +9,11 @@
 	var formClose = document.getElementById('div-form');
 	
 
-	var boxProducts = document.getElementById('OurProducts-Inside');
-	var boxProducts1 = document.getElementById('OurProducts-Inside-2');
-	var boxProducts2 = document.getElementById('OurProducts-Inside-3');
+	var boxProducts = document.querySelector('OurProducts-Inside-1');
+	var boxProducts1 = document.querySelector('OurProducts-Inside-2');
+	var boxProducts2 = document.querySelector('OurProducts-Inside-3');
+
+	var productOpen = document.querySelector('box-product');
 
 
 	document.getElementById('menu-mobile').addEventListener("click", openMenu);
@@ -30,6 +32,8 @@
 	document.getElementById('box-product').addEventListener("click", closeProduct);
 	document.getElementById('box-product1').addEventListener("click", closeProduct);
 	document.getElementById('box-product2').addEventListener("click", closeProduct);
+
+	// document.getElementById('box-product').addEventListener("click", openProduct);
 
 // 	Menu
 
@@ -67,6 +71,6 @@
 		boxProducts1.classList.remove('-show');
 		boxProducts2.classList.remove('-show');
 	}
-	
 
-})();
+}
+)();

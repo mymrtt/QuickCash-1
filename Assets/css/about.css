@@ -186,7 +186,7 @@ img {
     .title-about {
        width: 87%;
       font-size: 1.5rem;
-      line-height: 3;
+      padding: 2rem 0;
     }
   }
 
@@ -243,6 +243,7 @@ img {
 @media(max-width:768px) {
   .box-text-about {
     width: 100%;
+    height: auto;
     display: flex;
     align-items: center;
   }
@@ -252,7 +253,7 @@ img {
   font-family: 'Open Sans', sans-serif;
   width: 100%;
   color: #fff;
-  font-size: 1.75rem;
+  font-size: 1.5rem;
 }
 @media(max-width:768px) {
   .p-about {
@@ -491,17 +492,17 @@ img {
 }
 
 .p-board{
-  color: #231f2096;
+  color: #231F20;
   font-size: 0.9rem;
   width: 90%;
 }
 
 @media(max-width: 768px){
   .p-board{
-    width: 80vw;
+    width: 100%;
     display: flex;
     justify-content: center;
-    padding: 1rem 0;
+    padding-bottom: 1.5rem;
     text-align: center;
   }
 }
@@ -537,6 +538,7 @@ img {
 }
 
 .p-txt-board-2{
+  align-self: flex-start;
   padding-top: 1rem;
   font-size: .7rem;
   color: #6B6B6B;
@@ -552,6 +554,7 @@ img {
   list-style: none;
 }
 .board-item {
+  padding: .25rem 0;
   font-size: .7rem;
   color: #6B6B6B;
 }
@@ -559,21 +562,25 @@ img {
 @media(max-width: 768px) {
   .board-item {
     font-size: 1rem;
-    line-height: 2.25rem;
+    line-height: 1.5rem;
   }
 }
 
 .box-txt-board{
-	margin-left: 5%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+	margin-left: 2rem;
   width: 52vw;
 	font-size: 0.8rem;
-	display: inline-block;
   line-height: 1.3rem;
 }
 
   @media(max-width: 768px) {
     .box-txt-board {
       width: 100%;
+      margin: 0;
     }
   }
 
@@ -643,7 +650,7 @@ img {
   }
 }
 .box-about-news{
-  width: 25%;
+  width: 30%;
   height: auto;
   padding: 1rem;
 	display: flex;
@@ -690,7 +697,7 @@ img {
 
 .subtitle-about-news{
   padding: 1rem 0; 
-  font-size: 1rem;
+  font-size: 1.12rem;
 }
 @media(max-width: 768px){
   .subtitle-about-news{
@@ -699,7 +706,7 @@ img {
 }
 
 .p-about-news{
-  font-size: .9rem;
+  font-size: 1rem;
   line-height: 1.25rem;
   color: #000000d1;
 }
@@ -843,7 +850,7 @@ img {
 @media(max-width: 768px){
   .box-copyright{
     position: relative;
-    top: 232px;
+    top: 190px;
 
   }
 }
@@ -905,7 +912,7 @@ img {
 @media(max-width: 768px) {
   .list-menu-secundario {
     position: absolute;
-    bottom: 140px
+    bottom: 65px
   }
 }
 

@@ -1,4 +1,4 @@
-(function() {
+(function () {
   var menuItem = document.querySelectorAll(".menu-item");
   var menuOpen = document.querySelector(".menu-list");
 
@@ -14,89 +14,83 @@
   document.getElementById("menu-item1").addEventListener("click", closeMenu);
   document.getElementById("menu-item2").addEventListener("click", closeMenu);
 
-  document
-    .getElementById("box-product--Cash")
-    .addEventListener("click", showCashToCash);
-
-  document
-    .getElementById("box-product--Card")
-    .addEventListener("click", showCashToCard);
-
-  document
-    .getElementById("box-product--Account")
-    .addEventListener("click", showCashToAccount);
+  document.getElementById("box-product--Cash").addEventListener("click", showCashToCash);
+  document.getElementById("box-product--Card").addEventListener("click", showCashToCard);
+  document.getElementById("box-product--Account").addEventListener("click", showCashToAccount);
 
   document.getElementById("btnForm").addEventListener("click", openForm);
   document.getElementById("close-form").addEventListener("click", closeForm);
 
+  // Products
   function showCashToCash() {
     let cashToCash = document.getElementById("OurProducts-Inside-1");
     let cashToCard = document.getElementById("OurProducts-Inside-2");
     let cashToAccount = document.getElementById("OurProducts-Inside-3");
+    let btnCloseCash = document.getElementById('btn-cash');
 
     let openCash;
 
     if (!openCash) {
       openCash = true;
-      cashToCash.style.display = "block";
+      cashToCash.style.display = "flex";
       cashToCard.style.display = "none";
       cashToAccount.style.display = "none";
     }
+
+    btnCloseCash.onclick = function (e) {
+      e.preventDefault();
+
+      cashToCash.style.display = "none";
+    }
+
   }
 
   function showCashToCard() {
-    let cashToCash = document.getElementById("OurProducts-Inside-1");
     let cashToCard = document.getElementById("OurProducts-Inside-2");
+    let cashToCash = document.getElementById("OurProducts-Inside-1");
     let cashToAccount = document.getElementById("OurProducts-Inside-3");
+    let btnCloseCard = document.getElementById("btn-card");
 
     let openCard;
 
     if (!openCard) {
       openCard = true;
 
-      cashToCard.style.display = "block";
+      cashToCard.style.display = "flex";
       cashToCash.style.display = "none";
       cashToAccount.style.display = "none";
+    }
+
+    btnCloseCard.onclick = function (e) {
+      e.preventDefault();
+
+      cashToCard.style.display = "none";
     }
   }
 
   function showCashToAccount() {
-    let cashToCash = document.getElementById("OurProducts-Inside-1");
-    let cashToCard = document.getElementById("OurProducts-Inside-2");
     let cashToAccount = document.getElementById("OurProducts-Inside-3");
+    let cashToCard = document.getElementById("OurProducts-Inside-2");
+    let cashToCash = document.getElementById("OurProducts-Inside-1");
+    let btnCloseAccount = document.getElementById("btn-account");
 
     let openAccount;
 
     if (!openAccount) {
       openAccount = true;
 
-      cashToAccount.style.display = "block";
+      cashToAccount.style.display = "flex";
       cashToCash.style.display = "none";
       cashToCard.style.display = "none";
     }
+
+    btnCloseAccount.onclick = function (e) {
+      e.preventDefault();
+
+      cashToAccount.style.display = "none";
+    }
   }
-
-  // document
-  //   .getElementById("box-product")
-  //   .addEventListener("click", openProducts);
-  // document
-  //   .getElementById("box-product1")
-  //   .addEventListener("click", openProducts);
-  // document
-  //   .getElementById("box-product2")
-  //   .addEventListener("click", openProducts);
-
-  // document
-  //   .getElementById("box-product")
-  //   .addEventListener("click", closeProduct);
-  // document
-  //   .getElementById("box-product1")
-  //   .addEventListener("click", closeProduct);
-  // document
-  //   .getElementById("box-product2")
-  //   .addEventListener("click", closeProduct);
-
-  // document.getElementById('box-product').addEventListener("click", openProduct);
+  // Products
 
   // 	Menu
 
@@ -135,16 +129,3 @@
   //     boxProducts2.classList.remove("-show");
   //   }
 })();
-
-let cashToCash = document.getElementById("OurProducts-Inside-1");
-
-function showCashToCash() {
-  let openCash;
-
-  if (!openCash) {
-    openCash = true;
-    cashToCash.style.display = "block";
-    // cashToCard.style.display = "none";
-    // cashToAccount.style.display = "none";
-  }
-}

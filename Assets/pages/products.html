@@ -237,37 +237,69 @@
       </div>
     </div>
   </section>
-  <section id="container-products-simulater">
-    <div class="products-simulater">
-      <figure><img class="img-simulater" src="../img/contador.png"></figure>
-    </div>
-    <div class="products-firstbox-simulater">
-      <h2 class="title-simulater">Simulate your transfer</h2>
-      <h3 class="subtitle-simulater">QuickCash is currently available in these countries:</p>
-        <div class="box-country">
-          <div class="box-simulater">
-            <img src="../img/Costa-do-marfim.png" class="country-flag" alt="Ivory Coast">
-            <p class="country-name">Ivory Coast</p>
+  <section id="simulater">      
+    <form action="" class="container-simulater">
+      <div class="container-select">
+        <fieldset class="wrapper-simulater">
+          <label class="label-simulater">From:</label>
+            <select class="select-simulater">
+              <option value="ivony">Ivory Coast</option>
+              <option value="burkina">Burkina Faso</option>
+              <option value="mali">Mali</option>
+              <option value="niger">Niger</option>
+              <option value="togo">Togo</option>
+              <option value="france">France</option>
+            </select>
+        </fieldset>
+        <span class="simulater-inverse" onclick="inversefxexchangerate()">&#8645;</span>
+        <fieldset class="wrapper-simulater">
+          <label class="label-simulater">To:</label>
+            <select class="select-simulater">
+              <option value="ivony">Ivory Coast</option>
+              <option value="burkina">Burkina Faso</option>
+              <option value="mali">Mali</option>
+              <option value="niger">Niger</option>
+              <option value="togo">Togo</option>
+              <option value="france">France</option>
+            </select>
+        </fieldset>
+      </div>
+      <div class="container-simulater--converter">
+        <fieldset class="simulater-converter">
+          <label class="converter-title">Your send</label>
+          <span class="converter-items">
+            <p class="items-text">EUR</p>
+            <input class="converter-items-input" placeholder="0"></input>
+          </span>
+        </fieldset>
+        <fieldset class="simulater-converter">
+          <label class="converter-title">They receive</label>
+          <span class="converter-items">
+            <p class="items-text">FCFA</p>
+            <input class="converter-items-input" placeholder="0"></input>
+          </span>
+        </fieldset>
+        <span class="container-simulater--description">
+          <p class="simulater-description description-rate">Today's rate: €1 = 655.96 FCFA</p>
+          <p class="simulater-description"> €2.00 fee</p>
+        </span>
+      </div>
+    </form>
+    <div class="firstbox-simulater">
+          <div class="box-titulo">
+            <h2 class="title-simulater">Simulate your transfer</h2>
+            <h3 class="subtitle-simulater">QuickCash is currently available in these countries:</h3>
           </div>
-          <div class="box-simulater">
-            <img src="../img/BurkinaFaso.png" class="country-flag" alt="Burkina Faso">
-            <p class="country-name">Burkina Faso</p>
-          </div>
-          <div class="box-simulater">
-            <img src="../img/mali.png" class="country-flag" alt="Mali">
-            <p class="country-name">Mali</p>
-          </div>
-          <div class="box-simulater">
-            <img src="../img/Niger.png" class="country-flag" alt="Niger">
-            <p class="country-name">Niger</p>
-          </div>
-          <div class="box-simulater">
-            <img src="../img/Togo.png" class="country-flag" alt="Togo">
-            <p class="country-name">Togo</p>
-          </div>
-        </div>
-    </div>
-  </section>
+          <ul class="box-country">
+            <li class="country-name"><img src="../img/Costa-do-marfim.png" class="country-flag" alt="country-flag">
+              Ivory Coast</li>
+            <li class="country-name"><img src="../img/BurkinaFaso.png" class="country-flag" alt="country-flag">Burkina Faso</li>
+            <li class="country-name"><img src="../img/mali.png" class="country-flag" alt="country-flag">Mali</li>
+            <li class="country-name"><img src="../img/Niger.png" class="country-flag" alt="">Niger</li>
+            <li class="country-name">	<img src="../img/Togo.png" class="country-flag" alt="country-flag">Togo</li>
+          </ul>
+      </div>	
+</section>
   <div class="circles"></div>
   <section id="container-agency">
     <img class="icon-agency" src="../img/globo.svg" alt="Globo">
